@@ -1,0 +1,45 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+target/
+build/
+
+# Maven
+.mvn/
+!.mvn/wrapper/
+*.iml
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.ipr
+out/
+
+# VS Code
+.vscode/
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Spring Boot
+application-local.properties
+application-prod.properties
+*.env
+
+# Logs
+*.log
+logs/
+
+# H2 Database
+*.mv.db
+*.trace.db
